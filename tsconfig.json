@@ -1,0 +1,11 @@
+{
+    "compilerOptions": {
+        "target": "es6",
+        "module": "system",
+        "sourceMap": true,
+        "removeComments": false,
+        "noImplicitAny": false,
+        "outFile": "dist/bundle.js",
+        "experimentalDecorators": true,
+    }
+}
